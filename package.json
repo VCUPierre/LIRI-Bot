@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "UofR Bootcamp Week 10 HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VCUPierre/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VCUPierre/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/VCUPierre/LIRI-Bot#readme"
+}

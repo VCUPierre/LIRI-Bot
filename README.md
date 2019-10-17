@@ -4,7 +4,7 @@ UofR Bootcamp Week 10 HW
   • LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
 cles
 
-# Descirption
+# Description
   •	The LIRI bot is a nodejs app that was created to be a text based natural language interpreter version of Siri. The LIRI bot will      provide end users with information about upcoming concerts from a particular band and or artist, song details, and movie details
 
 # Usage Overview
@@ -17,7 +17,7 @@ cles
     
   •	The app will parse the request and make the corresponding api call to retrieve the data. The data will then be printed to the console for the end-user. 
   
-  •	Please feel free to view images of the app's functionality. Images are located in the images folder located in the root of this reposiotry
+  •	Please feel free to view images of the app's functionality. Images are located in the images folder located in the root of this repository 
 
 # Setup
   •	Install nodeJs
